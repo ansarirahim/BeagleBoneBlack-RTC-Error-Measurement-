@@ -1,0 +1,14 @@
+Debian GNU/Linux 7
+
+BeagleBoard.org BeagleBone Debian Image 2014-05-14
+
+Support/FAQ: http://elinux.org/Beagleboard:BeagleBoneBlack_Debian
+Ver 1.00 Rev 7.00 Dated 03rd June 2022
+Tested by Divya and Shivangi
+Supported Freq: ,32,512,32768
+Ver 1.00 Rev 4.00 Dated 31122020
+for noise at 32768
+Tested for 32768
+Tested for 32Hz
+Tested for 512Hz
+Gauvrav for Sanand dated 05/10/2018
